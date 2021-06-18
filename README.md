@@ -7,7 +7,7 @@ In this article, you will learn several simple yet powerful approaches to detect
 The data used in this experiment is a [generated dummy data](https://github.com/louisowen6/anomaly_detection/blob/main/dummy_topup_data.csv) about historical credits top-up at the e-commerce company. Each row represents the aggregation value within a 30-minutes interval. 
 
 
-# Requirements
+## Requirements
 
 ```
 pandas, numpy, matplotlib, seaborn, tqdm, scikit-learn==0.23.2
